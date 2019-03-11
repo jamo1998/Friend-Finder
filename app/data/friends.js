@@ -67,4 +67,4 @@ function friendsList (newFriend) {
     return friends;
 }
 
-module.exports = friendsList;
+module.exports.friendsList = friendsList;
